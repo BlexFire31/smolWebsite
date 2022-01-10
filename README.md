@@ -1,2 +1,2 @@
-# smolboi-website
+# smoWebsite
 A website created for the sole purpose of learning how to use github 
